@@ -3,3 +3,4 @@ torch==2.0.1
 ultralytics==8.0.3  # YOLOv8
 opencv-python==4.8.0.74
 gunicorn
+numpy<2
